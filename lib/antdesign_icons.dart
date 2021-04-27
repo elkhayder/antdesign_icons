@@ -1,7 +1,5 @@
 library antdesign_icons;
 
-// GENERATED CODE - DO NOT MODIFY BY HAND
-
 import 'package:flutter/widgets.dart';
 
 @immutable
@@ -10,6 +8,7 @@ class _AntIconsData extends IconData {
       : super(
           codePoint,
           fontFamily: 'AntIcons',
+          fontPackage: "antdesign_icons",
         );
 }
 
