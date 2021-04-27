@@ -16,7 +16,7 @@ This is a Flutter package for Ant Icons.
 Add the following in you `pubspec.yaml` file under `dependencies:`
 
 ```yaml
-anticons: <latest_version>
+antdesign_icons: <latest_version>
 ```
 
 ## Usage
