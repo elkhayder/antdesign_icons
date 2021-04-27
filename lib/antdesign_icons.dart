@@ -1,4 +1,4 @@
-library anticons;
+library antdesign_icons;
 
 // GENERATED CODE - DO NOT MODIFY BY HAND
 

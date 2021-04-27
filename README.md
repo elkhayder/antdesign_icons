@@ -1,4 +1,4 @@
-# Package for Ant Icons
+# Package for AntDesign Icons
 
 An icon is a graphical representation of meaning. Icons can be used to express actions, state, and even to categorize data. [Ant Design's icons](https://ant.design/components/icon/) adhere to the following two principles and are designed for cross-platform consistency:
 
@@ -22,7 +22,7 @@ anticons: <latest_version>
 ## Usage
 
 ```dart
-import 'package:anticons/anticons.dart';
+import 'package:antdesign_icons/antdesign_icons.dart';
 
 class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
